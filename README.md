@@ -5,12 +5,21 @@ Free, powerful, and easy-to-use batch file renamer for Windows.
 ***
 
 ## 📖 About Us / 关于我们
+<<<<<<< HEAD
 
 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
 We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
 中文官网：<https://www.majk.cn>
 English Website：<https://lumtool.com>
 -------------------------------------
+=======
+致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
+We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
+中文官网：[https://www.majk.cn](https://www.majk.cn)
+English Website：[https://lumtool.com](https://lumtool.com)
+
+---
+>>>>>>> 8086baea350a73743305b313bace5894349fe0e5
 
 ## ✨ Features / 功能特性
 
@@ -181,7 +190,7 @@ Q: 是否开源源代码？
 A: 本软件为闭源免费工具，暂不公开源代码，仅提供可执行安装包供个人非商用使用。
 
 Q: 下载的安装包有病毒吗？
-A: 所有安装包均通过 GitHub Releases 官方分发，无捆绑、无广告、无恶意代码，可放心下载。
+A: 所有安装包均通过GitHub Releases 官方分发，无捆绑、无广告、无恶意代码，可放心下载。
 
 Q: 支持哪些操作系统？
 A: 目前仅支持 Windows 操作系统。
@@ -189,5 +198,9 @@ A: 目前仅支持 Windows 操作系统。
 Q: 可以处理多少个文件？
 A: 支持批量处理1000+文件，多线程处理确保高效完成。
 
+<<<<<<< HEAD
 ***
 
+=======
+---
+>>>>>>> 8086baea350a73743305b313bace5894349fe0e5
