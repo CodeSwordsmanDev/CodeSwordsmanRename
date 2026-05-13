@@ -142,8 +142,8 @@ Rename files sequentially with custom prefix and sequence format
 
 - 本版本仅支持 Windows x64 系统
   This version only supports Windows x64 system
-- 下载后直接双击 `majk-rename-win64-v1.0.9.exe` 运行安装，无需额外配置
-  Download and double-click `majk-rename-win64-v1.0.9.exe` to install, no additional configuration required
+- 下载后直接双击 `majk-rename-win64-v1.0.10.exe` 运行安装，无需额外配置
+  Download and double-click `majk-rename-win64-v1.0.10.exe` to install, no additional configuration required
 
 ### 方式二：微软商店下载 / Method 2: Microsoft Store Download
 
