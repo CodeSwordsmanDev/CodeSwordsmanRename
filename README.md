@@ -8,8 +8,9 @@ Free, powerful, and easy-to-use batch file renamer for Windows.
 
 <br />
 
-致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
-We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
+**码剑客（CodeSwordsman，简称 CSM）** 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
+
+**CodeSwordsman (CSM)** is committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
 中文官网：<https://www.majk.cn>
 English Website：<https://codeswordsman.com>
 -------------------------------------
@@ -151,8 +152,8 @@ Rename files sequentially with custom prefix and sequence format
 
 - 本版本仅支持 Windows x64 系统
   This version only supports Windows x64 system
-- 下载后直接双击 `majk-rename-win64-v1.0.10.exe` 运行安装，无需额外配置
-  Download and double-click `majk-rename-win64-v1.0.10.exe` to install, no additional configuration required
+- 下载后直接双击 `majk-rename-win64-v*.exe` 运行安装，无需额外配置
+  Download and double-click `majk-rename-win64-v*.exe` to install, no additional configuration required
 
 ### 方式二：微软商店下载 / Method 2: Microsoft Store Download
 
